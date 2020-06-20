@@ -2,8 +2,8 @@
 ## 1. Description
 This repository includes source codes of the paper "Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN"
 
-## 2. How to Run
-### 2.1 Generate groundtruth channel dataset **H** and quantized signals **Y**
+## 2. Run cGAN on Python
+
 
 
 ## 2. Referenced Repository:
