@@ -1,6 +1,6 @@
 # Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN
 ## 1. Description
-This repository includes source codes of the paper "Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN"
+This repository is the implenation of the paper "Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN"
 
 ## 2. Run cGAN to Perform Channel Estimation
 1. The dataset is already genreated ***"Data_Generation_matlab/Gan_Data/Gan_0_dBIndoor2p4_64ant_32users_8pilot.mat"***, which inculdes the channel data and quantized siganl data.
