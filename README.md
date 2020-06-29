@@ -14,7 +14,7 @@ For each epoch, results will be saved in the folder ***"cGAN_python/Results"*** 
 
 ## 3. How to Generate Data
 1. Download "I1_2p4.zip" from this link: https://drive.google.com/drive/folders/1rbIHfK__JUn5e52y5GWI7p-0cL5OSZUO?usp=sharing. Then, you should extact "I1_2P4" folder and put it in the folder ***"Data_Generation_matlab/RayTracing Scenarios"***.
-2. Run the matlab function ***"Data_Generation_matlab/GenerateData_Main.m"*** to generate channel data and quantized siganl data.
+2. Run the matlab function ***"Data_Generation_matlab/GenerateData_Main.m"*** to generate channel data and quantized signal data.
 
 ## 4. Referenced Repository
 
