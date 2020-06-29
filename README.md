@@ -8,7 +8,7 @@ Yudi Dong, Huaxia Wang, and Yu-Dong Yao, “Channel Estimation for One-Bit Multi
 1. The dataset is already genreated ***"Data_Generation_matlab/Gan_Data/Gan_0_dBIndoor2p4_64ant_32users_8pilot.mat"***, which inculdes the channel data and quantized signal data.
 2. Run the main function ***"cGAN_python/main_cGAN.py"***. 
 
-For each epoch, results will be save in the folder ***"cGAN_python/Results"*** and will show visual results as follows.
+For each epoch, results will be saved in the folder ***"cGAN_python/Results"*** and will show visual results as follows.
 
 ![image](https://github.com/YudiDong/Channel_Estimation_cGAN/blob/master/cGAN_python/generated_img/img_1.png)
 
