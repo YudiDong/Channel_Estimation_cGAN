@@ -2,6 +2,7 @@
 ## 1. Description
 This repository is the implenation of the paper: 
 Yudi Dong, Huaxia Wang, and Yu-Dong Yao, “Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN.” ArXiv:2006.11435 [Eess], June 2020. arXiv.org, http://arxiv.org/abs/2006.11435.
+The paper is accepted in IEEE Communications Letters, DOI: 10.1109/LCOMM.2020.3035326
 
 
 ## 2. Run cGAN to Perform Channel Estimation
