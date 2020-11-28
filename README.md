@@ -5,7 +5,7 @@ Yudi Dong, Huaxia Wang, and Yu-Dong Yao, “Channel Estimation for One-Bit Multi
 The paper is accepted in IEEE Communications Letters, DOI: 10.1109/LCOMM.2020.3035326
 
 
-## 2. Run cGAN to Perform Channel Estimation
+## 2. Run cGAN to Perform Channel Estimation (TensorFlow Version is 2.0)
 1. The dataset is already genreated ***"Data_Generation_matlab/Gan_Data/Gan_0_dBIndoor2p4_64ant_32users_8pilot.mat"***, which inculdes the channel data and quantized signal data.
 2. Run the main function ***"cGAN_python/main_cGAN.py"***. 
 
